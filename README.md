@@ -6,18 +6,18 @@ Insights: Overall employee demography, Current employee demography and Attrition
 
 # OVERALL CATEGORY
 The dashboard contains sections of; 
-	total number of employees including current and past employees
-	Average age of employees
-	Average monthly income
-	Average monthly salary by Jobrole
-	Employee by Jobrole and EducationLevel
-	Employee by Gender
-	Salary grouping
-	Employee by Jobrole
+	total number of employees including current and past employees,
+	Average age of employees,
+	Average monthly income,
+	Average monthly salary by Jobrole,
+	Employee by Jobrole and EducationLevel,
+	Employee by Gender,
+	Salary grouping,
+	Employee by Jobrole,
 	Employee by EducationField
 
-Key Performance Indicators
-The total amount of employees are 1470
+Key Performance Indicators.
+The total amount of employees are 1470.
 The average age of the employees are 36.92 years, which signifies the employees in the company are very active.
 The monthly income of the employees is $6500, across all departments.
 
@@ -51,15 +51,15 @@ Employees from Human Resource background were the lowest with 27 employees with 
 
 # CURRENT EMPLOYEES CATEGORY
 The dashboard contains sections of; 
-	total number of current employees
-	Average age of employees
-	Average monthly income
-	Average monthly salary by Jobrole
-	Employee by Jobrole and EducationLevel
-	Employee by Gender
-	Salary grouping
-	Employee by Jobrole
-	Employee by EducationField
+	total number of current employees,
+	Average age of employees,
+	Average monthly income,
+	Average monthly salary by Jobrole,
+	Employee by Jobrole and EducationLevel,
+	Employee by Gender,
+	Salary grouping,
+	Employee by Jobrole,
+	Employee by EducationField.
 
 Key Performance Indicators
 The total amount of employees are 1233
@@ -95,15 +95,15 @@ Employees from Human Resource background were the lowest with 20 employees with 
 
 # ATTRITION CATEGORY
 The dashboard contains sections of; 
-	total number of employees including current and past employees
-	Attrition
-	Attrition Rate
-	Attrition by JobRole
-	Attrition by Age and JobRole
-	Attrition by Gender
-	Attrition by Job Satisfaction
-	Attrition by Working Years group
-	Attrition by Distance
+	total number of employees including current and past employees,
+	Attrition,
+	Attrition Rate,
+	Attrition by JobRole,
+	Attrition by Age and JobRole,
+	Attrition by Gender,
+	Attrition by Job Satisfaction,
+	Attrition by Working Years group,
+	Attrition by Distance,
 
 Key Performance Indicators
 The total amount of employees are 1470
